@@ -100,8 +100,7 @@ $ streamlit run app.py
 ## :handshake: Contribution
 Feel free to **file a new issue** with a respective title and description on the the [Face-Mask-Detection](https://github.com/chandrikadeb7/Face-Mask-Detection/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! 
 
-## :heart: Owner
-Made with :heart:&nbsp;  by [Chandrika Deb](https://github.com/chandrikadeb7)
+
 
 ## :+1: Credits
 * [https://www.pyimagesearch.com/](https://www.pyimagesearch.com/)
